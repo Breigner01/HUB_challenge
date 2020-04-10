@@ -1,4 +1,4 @@
-# Challenges proposed by the hub at Epitech during this quarantine caused by coronavirus
+# Challenges proposed by Epitech's HUB during this quarantine period
 
 ## Challenge 01
 
